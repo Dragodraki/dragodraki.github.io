@@ -1,0 +1,2517 @@
+{
+  "179": {
+    "id": 179,
+    "internalname": "FASTER_FIRING_ARM",
+    "salescost": 175,
+    "name": "Faster Firing",
+    "cost": 175,
+    "quantity": 1
+  },
+  "180": {
+    "id": 180,
+    "internalname": "DOUBLE_SHOT",
+    "salescost": 550,
+    "name": "Double Shot",
+    "cost": 550,
+    "quantity": 1
+  },
+  "181": {
+    "id": 181,
+    "internalname": "FLECHETTE_DARTS_ARM",
+    "salescost": 1400,
+    "name": "Flechette Darts",
+    "cost": 1400,
+    "quantity": 1
+  },
+  "182": {
+    "id": 182,
+    "internalname": "TRIPLE_SHOT",
+    "salescost": 2900,
+    "name": "Triple Shot",
+    "cost": 2900,
+    "quantity": 1
+  },
+  "183": {
+    "id": 183,
+    "internalname": "SPIKEY_SHOTS",
+    "salescost": 8500,
+    "name": "Spikey Shots",
+    "cost": 8500,
+    "quantity": 1
+  },
+  "184": {
+    "id": 184,
+    "internalname": "DART_ACE",
+    "salescost": 16750,
+    "name": "Dart Ace",
+    "cost": 16750,
+    "quantity": 1
+  },
+  "185": {
+    "id": 185,
+    "internalname": "DART_BURST",
+    "salescost": 50,
+    "name": "Dart Burst",
+    "cost": 50,
+    "quantity": 1
+  },
+  "186": {
+    "id": 186,
+    "internalname": "FASTER_FIRING",
+    "salescost": 250,
+    "name": "Faster Firing",
+    "cost": 250,
+    "quantity": 1
+  },
+  "187": {
+    "id": 187,
+    "internalname": "DOUBLE_BURST",
+    "salescost": 600,
+    "name": "Double Burst",
+    "cost": 600,
+    "quantity": 1
+  },
+  "188": {
+    "id": 188,
+    "internalname": "FLECHETTE_DARTS",
+    "salescost": 1500,
+    "name": "Flechette Darts",
+    "cost": 1500,
+    "quantity": 1
+  },
+  "189": {
+    "id": 189,
+    "internalname": "TRIPLE_BURST",
+    "salescost": 2700,
+    "name": "Triple Burst",
+    "cost": 2700,
+    "quantity": 1
+  },
+  "190": {
+    "id": 190,
+    "internalname": "SPIKEY_BURST",
+    "salescost": 8600,
+    "name": "Spikey Burst",
+    "cost": 8600,
+    "quantity": 1
+  },
+  "191": {
+    "id": 191,
+    "internalname": "SPIKEY_CHAOS",
+    "salescost": 17000,
+    "name": "Spikey Chaos",
+    "cost": 17000,
+    "quantity": 1
+  },
+  "192": {
+    "id": 192,
+    "internalname": "BOOMERANG_THROWER",
+    "salescost": 60,
+    "name": "Boomerang Thrower",
+    "cost": 60,
+    "quantity": 1
+  },
+  "193": {
+    "id": 193,
+    "internalname": "RAPID_RANGS",
+    "salescost": 175,
+    "name": "Rapid Rangs",
+    "cost": 175,
+    "quantity": 1
+  },
+  "194": {
+    "id": 194,
+    "internalname": "MULTI_TARGET_ARM",
+    "salescost": 450,
+    "name": "Multi-Target",
+    "cost": 450,
+    "quantity": 1
+  },
+  "195": {
+    "id": 195,
+    "internalname": "RICOCHET_RANGS",
+    "salescost": 1425,
+    "name": "Ricochet Rangs",
+    "cost": 1425,
+    "quantity": 1
+  },
+  "196": {
+    "id": 196,
+    "internalname": "SHURIKEN",
+    "salescost": 3100,
+    "name": "Shuriken",
+    "cost": 3100,
+    "quantity": 1
+  },
+  "197": {
+    "id": 197,
+    "internalname": "RADAR_GLAIVES",
+    "salescost": 8800,
+    "name": "Radar Glaives",
+    "cost": 8800,
+    "quantity": 1
+  },
+  "198": {
+    "id": 198,
+    "internalname": "CROUCHING_MONKEY",
+    "salescost": 14750,
+    "name": "Crouching Monkey",
+    "cost": 14750,
+    "quantity": 1
+  },
+  "199": {
+    "id": 199,
+    "internalname": "RADIAL_RANGS",
+    "salescost": 50,
+    "name": "Radial Rangs",
+    "cost": 50,
+    "quantity": 1
+  },
+  "200": {
+    "id": 200,
+    "internalname": "MULTI_TARGET",
+    "salescost": 250,
+    "name": "Multi-Target",
+    "cost": 250,
+    "quantity": 1
+  },
+  "201": {
+    "id": 201,
+    "internalname": "DOUBLE_RANGA",
+    "salescost": 450,
+    "name": "Double Ranga",
+    "cost": 450,
+    "quantity": 1
+  },
+  "202": {
+    "id": 202,
+    "internalname": "SEEKER_RANGS",
+    "salescost": 1275,
+    "name": "Seeker Rangs",
+    "cost": 1275,
+    "quantity": 1
+  },
+  "203": {
+    "id": 203,
+    "internalname": "SAI",
+    "salescost": 2900,
+    "name": "Sai",
+    "cost": 2900,
+    "quantity": 1
+  },
+  "204": {
+    "id": 204,
+    "internalname": "KATANA",
+    "salescost": 9850,
+    "name": "Katana",
+    "cost": 9850,
+    "quantity": 1
+  },
+  "205": {
+    "id": 205,
+    "internalname": "MASS_DISTRACTION",
+    "salescost": 16250,
+    "name": "Mass Distraction",
+    "cost": 16250,
+    "quantity": 1
+  },
+  "206": {
+    "id": 206,
+    "internalname": "BOMB_LAUNCHER",
+    "salescost": 75,
+    "name": "Bomb Launcher",
+    "cost": 75,
+    "quantity": 1
+  },
+  "207": {
+    "id": 207,
+    "internalname": "BIGGER_BLAST",
+    "salescost": 250,
+    "name": "Bigger Blast",
+    "cost": 250,
+    "quantity": 1
+  },
+  "208": {
+    "id": 208,
+    "internalname": "THERMITE_MUNITIONS",
+    "salescost": 575,
+    "name": "Thermite Munitions",
+    "cost": 575,
+    "quantity": 1
+  },
+  "209": {
+    "id": 209,
+    "internalname": "MISSILE_LAUNCHER",
+    "salescost": 1325,
+    "name": "Missile Launcher",
+    "cost": 1325,
+    "quantity": 1
+  },
+  "210": {
+    "id": 210,
+    "internalname": "TWIN_MISSILES",
+    "salescost": 2625,
+    "name": "Twin Missiles",
+    "cost": 2625,
+    "quantity": 1
+  },
+  "211": {
+    "id": 211,
+    "internalname": "BLOON_BUSTERS",
+    "salescost": 7200,
+    "name": "Bloon Busters",
+    "cost": 7200,
+    "quantity": 1
+  },
+  "212": {
+    "id": 212,
+    "internalname": "SIDEWINDER_ACE",
+    "salescost": 17225,
+    "name": "Sidewinder Ace",
+    "cost": 17225,
+    "quantity": 1
+  },
+  "213": {
+    "id": 213,
+    "internalname": "FLYING_PINEAPPLES",
+    "salescost": 120,
+    "name": "Flying Pineapples",
+    "cost": 120,
+    "quantity": 1
+  },
+  "214": {
+    "id": 214,
+    "internalname": "JUICIER_PINEAPPLES",
+    "salescost": 250,
+    "name": "Juicier Pineapples",
+    "cost": 250,
+    "quantity": 1
+  },
+  "215": {
+    "id": 215,
+    "internalname": "THERMITE_CHUNKS",
+    "salescost": 500,
+    "name": "Thermite Chunks",
+    "cost": 500,
+    "quantity": 1
+  },
+  "216": {
+    "id": 216,
+    "internalname": "SLICED_PINEAPPLES",
+    "salescost": 925,
+    "name": "Sliced Pineapples",
+    "cost": 925,
+    "quantity": 1
+  },
+  "217": {
+    "id": 217,
+    "internalname": "PLENTIFUL_PINEAPPLES",
+    "salescost": 1650,
+    "name": "Plentiful Pineapples",
+    "cost": 1650,
+    "quantity": 1
+  },
+  "218": {
+    "id": 218,
+    "internalname": "MEGA_FRUIT",
+    "salescost": 6950,
+    "name": "Mega Fruit",
+    "cost": 6950,
+    "quantity": 1
+  },
+  "219": {
+    "id": 219,
+    "internalname": "MOAP",
+    "salescost": 14000,
+    "name": "MOAP",
+    "cost": 14000,
+    "quantity": 1
+  },
+  "220": {
+    "id": 220,
+    "internalname": "PULSE_LASER",
+    "salescost": 400,
+    "name": "Pulse Laser",
+    "cost": 400,
+    "quantity": 1
+  },
+  "221": {
+    "id": 221,
+    "internalname": "LASER_VISION",
+    "salescost": 800,
+    "name": "Laser Vision",
+    "cost": 800,
+    "quantity": 1
+  },
+  "222": {
+    "id": 222,
+    "internalname": "PLASMA_VISION",
+    "salescost": 1500,
+    "name": "Plasma Vision",
+    "cost": 1500,
+    "quantity": 1
+  },
+  "223": {
+    "id": 223,
+    "internalname": "DUAL_BLAST",
+    "salescost": 3000,
+    "name": "Dual Blast",
+    "cost": 3000,
+    "quantity": 1
+  },
+  "224": {
+    "id": 224,
+    "internalname": "DOOM_BURST",
+    "salescost": 8400,
+    "name": "Doom Burst",
+    "cost": 8400,
+    "quantity": 1
+  },
+  "225": {
+    "id": 225,
+    "internalname": "SOLID_DOOM",
+    "salescost": 23500,
+    "name": "Solid Doom",
+    "cost": 23500,
+    "quantity": 1
+  },
+  "226": {
+    "id": 226,
+    "internalname": "SIDEKICK",
+    "salescost": 30000,
+    "name": "Sidekick",
+    "cost": 30000,
+    "quantity": 1
+  },
+  "227": {
+    "id": 227,
+    "internalname": "PULSE_WHIP",
+    "salescost": 275,
+    "name": "Pulse Whip",
+    "cost": 275,
+    "quantity": 1
+  },
+  "228": {
+    "id": 228,
+    "internalname": "LASER_WHIP",
+    "salescost": 725,
+    "name": "Laser Whip",
+    "cost": 725,
+    "quantity": 1
+  },
+  "229": {
+    "id": 229,
+    "internalname": "PLASMA_WHIP",
+    "salescost": 1450,
+    "name": "Plasma Whip",
+    "cost": 1450,
+    "quantity": 1
+  },
+  "230": {
+    "id": 230,
+    "internalname": "DUAL_WHIPS",
+    "salescost": 3200,
+    "name": "Dual Whips",
+    "cost": 3200,
+    "quantity": 1
+  },
+  "231": {
+    "id": 231,
+    "internalname": "DOOM_WHIP",
+    "salescost": 6450,
+    "name": "Doom Whip",
+    "cost": 6450,
+    "quantity": 1
+  },
+  "232": {
+    "id": 232,
+    "internalname": "DOUBLE_DOOM",
+    "salescost": 15600,
+    "name": "Double Doom",
+    "cost": 15600,
+    "quantity": 1
+  },
+  "233": {
+    "id": 233,
+    "internalname": "DOOM_GAUNTLETS",
+    "salescost": 22750,
+    "name": "Doom Gauntlets",
+    "cost": 22750,
+    "quantity": 1
+  },
+  "234": {
+    "id": 234,
+    "internalname": "MAGIC_RING",
+    "salescost": 200,
+    "name": "Magic Ring",
+    "cost": 200,
+    "quantity": 1
+  },
+  "235": {
+    "id": 235,
+    "internalname": "FAST_MAGIC",
+    "salescost": 425,
+    "name": "Fast Magic",
+    "cost": 425,
+    "quantity": 1
+  },
+  "236": {
+    "id": 236,
+    "internalname": "INTENSE_RING",
+    "salescost": 925,
+    "name": "Intense Ring",
+    "cost": 925,
+    "quantity": 1
+  },
+  "237": {
+    "id": 237,
+    "internalname": "LIGHTNING_ROD",
+    "salescost": 1950,
+    "name": "Lightning Rod",
+    "cost": 1950,
+    "quantity": 1
+  },
+  "238": {
+    "id": 238,
+    "internalname": "LIGHTNING_STORM",
+    "salescost": 4975,
+    "name": "Lightning Storm",
+    "cost": 4975,
+    "quantity": 1
+  },
+  "239": {
+    "id": 239,
+    "internalname": "LIGHTNING_RING",
+    "salescost": 12500,
+    "name": "Lightning Ring",
+    "cost": 12500,
+    "quantity": 1
+  },
+  "240": {
+    "id": 240,
+    "internalname": "LIGHTNING_TRAIL",
+    "salescost": 21250,
+    "name": "Lightning Trail",
+    "cost": 21250,
+    "quantity": 1
+  },
+  "241": {
+    "id": 241,
+    "internalname": "INTENSE_MAGIC",
+    "salescost": 125,
+    "name": "Intense Magic",
+    "cost": 125,
+    "quantity": 1
+  },
+  "242": {
+    "id": 242,
+    "internalname": "FIREBALL",
+    "salescost": 350,
+    "name": "Fireball",
+    "cost": 350,
+    "quantity": 1
+  },
+  "243": {
+    "id": 243,
+    "internalname": "FIRE_WAVE",
+    "salescost": 790,
+    "name": "Fire Wave",
+    "cost": 790,
+    "quantity": 1
+  },
+  "244": {
+    "id": 244,
+    "internalname": "FIRE_ARC",
+    "salescost": 1600,
+    "name": "Fire Arc",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "245": {
+    "id": 245,
+    "internalname": "ELEMENTAL_STRIKE",
+    "salescost": 4700,
+    "name": "Elemental Strike",
+    "cost": 4700,
+    "quantity": 1
+  },
+  "246": {
+    "id": 246,
+    "internalname": "ELEMENTAL_ARC",
+    "salescost": 11250,
+    "name": "Elemental Arc",
+    "cost": 11250,
+    "quantity": 1
+  },
+  "247": {
+    "id": 247,
+    "internalname": "PHOENIX",
+    "salescost": 19500,
+    "name": "Phoenix",
+    "cost": 19500,
+    "quantity": 1
+  },
+  "248": {
+    "id": 248,
+    "internalname": "RESEARCH_TIER_1",
+    "quantity": 1
+  },
+  "249": {
+    "id": 249,
+    "internalname": "RESEARCH_TIER_2",
+    "quantity": 1
+  },
+  "250": {
+    "id": 250,
+    "internalname": "RESEARCH_TIER_3",
+    "quantity": 1
+  },
+  "251": {
+    "id": 251,
+    "internalname": "RESEARCH_TIER_4",
+    "quantity": 1
+  },
+  "252": {
+    "id": 252,
+    "internalname": "RESEARCH_TIER_5",
+    "quantity": 1
+  },
+  "253": {
+    "id": 253,
+    "internalname": "RESEARCH_TIER_6",
+    "quantity": 1
+  },
+  "254": {
+    "id": 254,
+    "internalname": "RESEARCH_TIER_7",
+    "quantity": 1
+  },
+  "255": {
+    "id": 255,
+    "internalname": "RESEARCH_TIER_8",
+    "quantity": 1
+  },
+  "256": {
+    "id": 256,
+    "internalname": "RESEARCH_TIER_9",
+    "quantity": 1
+  },
+  "257": {
+    "id": 257,
+    "internalname": "RESEARCH_TIER_10",
+    "quantity": 1
+  },
+  "258": {
+    "id": 258,
+    "internalname": "RESEARCH_TIER_11",
+    "quantity": 1
+  },
+  "259": {
+    "id": 259,
+    "internalname": "RESEARCH_TIER_12",
+    "quantity": 1
+  },
+  "260": {
+    "id": 260,
+    "internalname": "PRECISION_FLIGHT_1",
+    "salescost": 50,
+    "name": "Precision Flight 1",
+    "cost": 50,
+    "quantity": 1
+  },
+  "261": {
+    "id": 261,
+    "internalname": "PHASE_MODULATOR_1",
+    "salescost": 100,
+    "name": "Phase Modulator 1",
+    "cost": 100,
+    "quantity": 1
+  },
+  "262": {
+    "id": 262,
+    "internalname": "BLOP_SAFE_1",
+    "salescost": 50,
+    "name": "Blop Safe 1",
+    "cost": 50,
+    "quantity": 1
+  },
+  "263": {
+    "id": 263,
+    "internalname": "ENERGY_SIGNATURE_1",
+    "salescost": 150,
+    "name": "Energy Signature 1",
+    "cost": 150,
+    "quantity": 1
+  },
+  "264": {
+    "id": 264,
+    "internalname": "SNAP_FREEZE_1",
+    "salescost": 150,
+    "name": "Snap Freeze 1",
+    "cost": 150,
+    "quantity": 1
+  },
+  "265": {
+    "id": 265,
+    "internalname": "PARALLEL_UNIVERSE_MONKEY_1",
+    "salescost": 150,
+    "name": "Parallel Universe Monkey 1",
+    "cost": 150,
+    "quantity": 1
+  },
+  "266": {
+    "id": 266,
+    "internalname": "FULL_ON_POWERUP_AWESOMENESS_PACK_1",
+    "salescost": 850,
+    "name": "Full On Powerup Awesomeness Pack 1",
+    "cost": 850,
+    "quantity": 1
+  },
+  "267": {
+    "id": 267,
+    "internalname": "PRECISION_FLIGHT_2",
+    "salescost": 100,
+    "name": "Precision Flight 2",
+    "cost": 100,
+    "quantity": 1
+  },
+  "268": {
+    "id": 268,
+    "internalname": "PHASE_MODULATOR_2",
+    "salescost": 200,
+    "name": "Phase Modulator 2",
+    "cost": 200,
+    "quantity": 1
+  },
+  "269": {
+    "id": 269,
+    "internalname": "BLOP_SAFE_2",
+    "salescost": 100,
+    "name": "Blop Safe 2",
+    "cost": 100,
+    "quantity": 1
+  },
+  "270": {
+    "id": 270,
+    "internalname": "ENERGY_SIGNATURE_2",
+    "salescost": 300,
+    "name": "Energy Signature 2",
+    "cost": 300,
+    "quantity": 1
+  },
+  "271": {
+    "id": 271,
+    "internalname": "SNAP_FREEZE_2",
+    "salescost": 300,
+    "name": "Snap Freeze 2",
+    "cost": 300,
+    "quantity": 1
+  },
+  "272": {
+    "id": 272,
+    "internalname": "PARALLEL_UNIVERSE_MONKEY_2",
+    "salescost": 300,
+    "name": "Parallel Universe Monkey 2",
+    "cost": 300,
+    "quantity": 1
+  },
+  "273": {
+    "id": 273,
+    "internalname": "FULL_ON_POWERUP_AWESOMENESS_PACK_2",
+    "salescost": 1700,
+    "name": "Full On Powerup Awesomeness Pack 2",
+    "cost": 1700,
+    "quantity": 1
+  },
+  "274": {
+    "id": 274,
+    "internalname": "PRECISION_FLIGHT_3",
+    "salescost": 200,
+    "name": "Precision Flight 3",
+    "cost": 200,
+    "quantity": 1
+  },
+  "275": {
+    "id": 275,
+    "internalname": "PHASE_MODULATOR_3",
+    "salescost": 400,
+    "name": "Phase Modulator 3",
+    "cost": 400,
+    "quantity": 1
+  },
+  "276": {
+    "id": 276,
+    "internalname": "BLOP_SAFE_3",
+    "salescost": 200,
+    "name": "Blop Safe 3",
+    "cost": 200,
+    "quantity": 1
+  },
+  "277": {
+    "id": 277,
+    "internalname": "ENERGY_SIGNATURE_3",
+    "salescost": 600,
+    "name": "Energy Signature 3",
+    "cost": 600,
+    "quantity": 1
+  },
+  "278": {
+    "id": 278,
+    "internalname": "SNAP_FREEZE_3",
+    "salescost": 600,
+    "name": "Snap Freeze 3",
+    "cost": 600,
+    "quantity": 1
+  },
+  "279": {
+    "id": 279,
+    "internalname": "PARALLEL_UNIVERSE_MONKEY_3",
+    "salescost": 600,
+    "name": "Parallel Universe Monkey 3",
+    "cost": 600,
+    "quantity": 1
+  },
+  "280": {
+    "id": 280,
+    "internalname": "FULL_ON_POWERUP_AWESOMENESS_PACK_3",
+    "salescost": 3400,
+    "name": "Full On Powerup Awesomeness Pack 3",
+    "cost": 3400,
+    "quantity": 1
+  },
+  "281": {
+    "id": 281,
+    "internalname": "PRECISION_FLIGHT_4",
+    "salescost": 250,
+    "name": "Precision Flight 4",
+    "cost": 250,
+    "quantity": 1
+  },
+  "282": {
+    "id": 282,
+    "internalname": "PHASE_MODULATOR_4",
+    "salescost": 500,
+    "name": "Phase Modulator 4",
+    "cost": 500,
+    "quantity": 1
+  },
+  "283": {
+    "id": 283,
+    "internalname": "BLOP_SAFE_4",
+    "salescost": 250,
+    "name": "Blop Safe 4",
+    "cost": 250,
+    "quantity": 1
+  },
+  "284": {
+    "id": 284,
+    "internalname": "ENERGY_SIGNATURE_4",
+    "salescost": 750,
+    "name": "Energy Signature 4",
+    "cost": 750,
+    "quantity": 1
+  },
+  "285": {
+    "id": 285,
+    "internalname": "SNAP_FREEZE_4",
+    "salescost": 750,
+    "name": "Snap Freeze 4",
+    "cost": 750,
+    "quantity": 1
+  },
+  "286": {
+    "id": 286,
+    "internalname": "PARALLEL_UNIVERSE_MONKEY_4",
+    "salescost": 750,
+    "name": "Parallel Universe Monkey 4",
+    "cost": 750,
+    "quantity": 1
+  },
+  "287": {
+    "id": 287,
+    "internalname": "FULL_ON_POWERUP_AWESOMENESS_PACK_4",
+    "salescost": 4250,
+    "name": "Full On Powerup Awesomeness Pack 4",
+    "cost": 4250,
+    "quantity": 1
+  },
+  "288": {
+    "id": 288,
+    "internalname": "PRECISION_FLIGHT_5",
+    "salescost": 300,
+    "name": "Precision Flight 5",
+    "cost": 300,
+    "quantity": 1
+  },
+  "289": {
+    "id": 289,
+    "internalname": "PHASE_MODULATOR_5",
+    "salescost": 600,
+    "name": "Phase Modulator 5",
+    "cost": 600,
+    "quantity": 1
+  },
+  "290": {
+    "id": 290,
+    "internalname": "BLOP_SAFE_5",
+    "salescost": 300,
+    "name": "Blop Safe 5",
+    "cost": 300,
+    "quantity": 1
+  },
+  "291": {
+    "id": 291,
+    "internalname": "ENERGY_SIGNATURE_5",
+    "salescost": 900,
+    "name": "Energy Signature 5",
+    "cost": 900,
+    "quantity": 1
+  },
+  "292": {
+    "id": 292,
+    "internalname": "SNAP_FREEZE_5",
+    "salescost": 900,
+    "name": "Snap Freeze 5",
+    "cost": 900,
+    "quantity": 1
+  },
+  "293": {
+    "id": 293,
+    "internalname": "PARALLEL_UNIVERSE_MONKEY_5",
+    "salescost": 900,
+    "name": "Parallel Universe Monkey 5",
+    "cost": 900,
+    "quantity": 1
+  },
+  "294": {
+    "id": 294,
+    "internalname": "FULL_ON_POWERUP_AWESOMENESS_PACK_5",
+    "salescost": 5100,
+    "name": "Full On Powerup Awesomeness Pack 5",
+    "cost": 5100,
+    "quantity": 1
+  },
+  "295": {
+    "id": 295,
+    "internalname": "R_FASTER_FIRING_ARM",
+    "salescost": 175,
+    "name": "Right Faster Firing",
+    "cost": 175,
+    "quantity": 1
+  },
+  "296": {
+    "id": 296,
+    "internalname": "R_DOUBLE_SHOT",
+    "salescost": 550,
+    "name": "Right Double Shot",
+    "cost": 550,
+    "quantity": 1
+  },
+  "297": {
+    "id": 297,
+    "internalname": "R_FLECHETTE_DARTS_ARM",
+    "salescost": 1400,
+    "name": "Right Flechette Darts",
+    "cost": 1400,
+    "quantity": 1
+  },
+  "298": {
+    "id": 298,
+    "internalname": "R_TRIPLE_SHOT",
+    "salescost": 2900,
+    "name": "Right Triple Shot",
+    "cost": 2900,
+    "quantity": 1
+  },
+  "299": {
+    "id": 299,
+    "internalname": "R_SPIKEY_SHOTS",
+    "salescost": 8500,
+    "name": "Right Spikey Shots",
+    "cost": 8500,
+    "quantity": 1
+  },
+  "300": {
+    "id": 300,
+    "internalname": "R_DART_ACE",
+    "salescost": 16750,
+    "name": "Right Dart Ace",
+    "cost": 16750,
+    "quantity": 1
+  },
+  "301": {
+    "id": 301,
+    "internalname": "R_BOOMERANG_THROWER",
+    "salescost": 60,
+    "name": "Right Boomerang Thrower",
+    "cost": 60,
+    "quantity": 1
+  },
+  "302": {
+    "id": 302,
+    "internalname": "R_RAPID_RANGS",
+    "salescost": 175,
+    "name": "Right Rapid Rangs",
+    "cost": 175,
+    "quantity": 1
+  },
+  "303": {
+    "id": 303,
+    "internalname": "R_MULTI_TARGET_ARM",
+    "salescost": 450,
+    "name": "Right Multi-Target",
+    "cost": 450,
+    "quantity": 1
+  },
+  "304": {
+    "id": 304,
+    "internalname": "R_RICOCHET_RANGS",
+    "salescost": 1425,
+    "name": "Right Ricochet Rangs",
+    "cost": 1425,
+    "quantity": 1
+  },
+  "305": {
+    "id": 305,
+    "internalname": "R_SHURIKEN",
+    "salescost": 3100,
+    "name": "Right Shuriken",
+    "cost": 3100,
+    "quantity": 1
+  },
+  "306": {
+    "id": 306,
+    "internalname": "R_RADAR_GLAIVES",
+    "salescost": 8800,
+    "name": "Right Radar Glaives",
+    "cost": 8800,
+    "quantity": 1
+  },
+  "307": {
+    "id": 307,
+    "internalname": "R_CROUCHING_MONKEY",
+    "salescost": 14750,
+    "name": "Right Crouching Monkey",
+    "cost": 14750,
+    "quantity": 1
+  },
+  "308": {
+    "id": 308,
+    "internalname": "R_BOMB_LAUNCHER",
+    "salescost": 75,
+    "name": "Right Bomb Launcher",
+    "cost": 75,
+    "quantity": 1
+  },
+  "309": {
+    "id": 309,
+    "internalname": "R_BIGGER_BLAST",
+    "salescost": 250,
+    "name": "Right Bigger Blast",
+    "cost": 250,
+    "quantity": 1
+  },
+  "310": {
+    "id": 310,
+    "internalname": "R_THERMITE_MUNITIONS",
+    "salescost": 575,
+    "name": "Right Thermite Munitions",
+    "cost": 575,
+    "quantity": 1
+  },
+  "311": {
+    "id": 311,
+    "internalname": "R_MISSILE_LAUNCHER",
+    "salescost": 1325,
+    "name": "Right Missile Launcher",
+    "cost": 1325,
+    "quantity": 1
+  },
+  "312": {
+    "id": 312,
+    "internalname": "R_TWIN_MISSILES",
+    "salescost": 2625,
+    "name": "Right Twin Missiles",
+    "cost": 2625,
+    "quantity": 1
+  },
+  "313": {
+    "id": 313,
+    "internalname": "R_BLOON_BUSTERS",
+    "salescost": 7200,
+    "name": "Right Bloon Busters",
+    "cost": 7200,
+    "quantity": 1
+  },
+  "314": {
+    "id": 314,
+    "internalname": "R_SIDEWINDER_ACE",
+    "salescost": 17225,
+    "name": "Right Sidewinder Ace",
+    "cost": 17225,
+    "quantity": 1
+  },
+  "315": {
+    "id": 315,
+    "internalname": "R_INTENSE_MAGIC",
+    "salescost": 125,
+    "name": "Right Intense Magic",
+    "cost": 125,
+    "quantity": 1
+  },
+  "316": {
+    "id": 316,
+    "internalname": "R_FIREBALL",
+    "salescost": 350,
+    "name": "Right Fireball",
+    "cost": 350,
+    "quantity": 1
+  },
+  "317": {
+    "id": 317,
+    "internalname": "R_FIRE_WAVE",
+    "salescost": 790,
+    "name": "Right Fire Wave",
+    "cost": 790,
+    "quantity": 1
+  },
+  "318": {
+    "id": 318,
+    "internalname": "R_FIRE_ARC",
+    "salescost": 1600,
+    "name": "Right Fire Arc",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "319": {
+    "id": 319,
+    "internalname": "R_ELEMENTAL_STRIKE",
+    "salescost": 4700,
+    "name": "Right Elemental Strike",
+    "cost": 4700,
+    "quantity": 1
+  },
+  "320": {
+    "id": 320,
+    "internalname": "R_ELEMENTAL_ARC",
+    "salescost": 11250,
+    "name": "Right Elemental Arc",
+    "cost": 11250,
+    "quantity": 1
+  },
+  "321": {
+    "id": 321,
+    "internalname": "R_PHOENIX",
+    "salescost": 19500,
+    "name": "Right Phoenix",
+    "cost": 19500,
+    "quantity": 1
+  },
+  "322": {
+    "id": 322,
+    "internalname": "R_PULSE_WHIP",
+    "salescost": 275,
+    "name": "Right Pulse Whip",
+    "cost": 275,
+    "quantity": 1
+  },
+  "323": {
+    "id": 323,
+    "internalname": "R_LASER_WHIP",
+    "salescost": 725,
+    "name": "Right Laser Whip",
+    "cost": 725,
+    "quantity": 1
+  },
+  "324": {
+    "id": 324,
+    "internalname": "R_PLASMA_WHIP",
+    "salescost": 1450,
+    "name": "Right Plasma Whip",
+    "cost": 1450,
+    "quantity": 1
+  },
+  "325": {
+    "id": 325,
+    "internalname": "R_DUAL_WHIPS",
+    "salescost": 3200,
+    "name": "Right Dual Whips",
+    "cost": 3200,
+    "quantity": 1
+  },
+  "326": {
+    "id": 326,
+    "internalname": "R_DOUBLE_DOOM",
+    "salescost": 15600,
+    "name": "Right Double Doom",
+    "cost": 15600,
+    "quantity": 1
+  },
+  "327": {
+    "id": 327,
+    "internalname": "R_DOOM_GAUNTLETS",
+    "salescost": 22750,
+    "name": "Right Doom Gauntlets",
+    "cost": 22750,
+    "quantity": 1
+  },
+  "328": {
+    "id": 328,
+    "internalname": "SHARP_DARTS_TIER_1",
+    "salescost": 100,
+    "name": "Sharp Darts Research Tier 1",
+    "cost": 100,
+    "quantity": 1
+  },
+  "329": {
+    "id": 329,
+    "internalname": "SHARP_DARTS_TIER_2",
+    "salescost": 200,
+    "name": "Sharp Darts Research Tier 2",
+    "cost": 200,
+    "quantity": 1
+  },
+  "330": {
+    "id": 330,
+    "internalname": "SHARP_DARTS_TIER_3",
+    "salescost": 300,
+    "name": "Sharp Darts Research Tier 3",
+    "cost": 300,
+    "quantity": 1
+  },
+  "331": {
+    "id": 331,
+    "internalname": "SHARP_DARTS_TIER_4",
+    "salescost": 450,
+    "name": "Sharp Darts Research Tier 4",
+    "cost": 450,
+    "quantity": 1
+  },
+  "332": {
+    "id": 332,
+    "internalname": "SHARP_DARTS_TIER_5",
+    "salescost": 625,
+    "name": "Sharp Darts Research Tier 5",
+    "cost": 625,
+    "quantity": 1
+  },
+  "333": {
+    "id": 333,
+    "internalname": "SHARP_DARTS_TIER_6",
+    "salescost": 850,
+    "name": "Sharp Darts Research Tier 6",
+    "cost": 850,
+    "quantity": 1
+  },
+  "334": {
+    "id": 334,
+    "internalname": "SHARP_DARTS_TIER_7",
+    "salescost": 1150,
+    "name": "Sharp Darts Research Tier 7",
+    "cost": 1150,
+    "quantity": 1
+  },
+  "335": {
+    "id": 335,
+    "internalname": "SHARP_DARTS_TIER_8",
+    "salescost": 1500,
+    "name": "Sharp Darts Research Tier 8",
+    "cost": 1500,
+    "quantity": 1
+  },
+  "336": {
+    "id": 336,
+    "internalname": "SHARP_DARTS_TIER_9",
+    "salescost": 1900,
+    "name": "Sharp Darts Research Tier 9",
+    "cost": 1900,
+    "quantity": 1
+  },
+  "337": {
+    "id": 337,
+    "internalname": "SHARP_DARTS_TIER_10",
+    "salescost": 2400,
+    "name": "Sharp Darts Research Tier 10",
+    "cost": 2400,
+    "quantity": 1
+  },
+  "338": {
+    "id": 338,
+    "internalname": "SHARP_DARTS_TIER_11",
+    "salescost": 3000,
+    "name": "Sharp Darts Research Tier 11",
+    "cost": 3000,
+    "quantity": 1
+  },
+  "339": {
+    "id": 339,
+    "internalname": "SHARP_DARTS_TIER_12",
+    "salescost": 4000,
+    "name": "Sharp Darts Research Tier 12",
+    "cost": 4000,
+    "quantity": 1
+  },
+  "340": {
+    "id": 340,
+    "internalname": "BLOONTONIUM_DARTS_TIER_1",
+    "salescost": 175,
+    "name": "Bloontonium Darts Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "341": {
+    "id": 341,
+    "internalname": "BLOONTONIUM_DARTS_TIER_2",
+    "salescost": 375,
+    "name": "Bloontonium Darts Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "342": {
+    "id": 342,
+    "internalname": "BLOONTONIUM_DARTS_TIER_3",
+    "salescost": 575,
+    "name": "Bloontonium Darts Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "343": {
+    "id": 343,
+    "internalname": "BLOONTONIUM_DARTS_TIER_4",
+    "salescost": 875,
+    "name": "Bloontonium Darts Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "344": {
+    "id": 344,
+    "internalname": "BLOONTONIUM_DARTS_TIER_5",
+    "salescost": 1200,
+    "name": "Bloontonium Darts Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "345": {
+    "id": 345,
+    "internalname": "BLOONTONIUM_DARTS_TIER_6",
+    "salescost": 1600,
+    "name": "Bloontonium Darts Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "346": {
+    "id": 346,
+    "internalname": "BLOONTONIUM_DARTS_TIER_7",
+    "salescost": 2000,
+    "name": "Bloontonium Darts Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "347": {
+    "id": 347,
+    "internalname": "BLOONTONIUM_DARTS_TIER_8",
+    "salescost": 2500,
+    "name": "Bloontonium Darts Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "348": {
+    "id": 348,
+    "internalname": "BLOONTONIUM_DARTS_TIER_9",
+    "salescost": 3500,
+    "name": "Bloontonium Darts Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "349": {
+    "id": 349,
+    "internalname": "BLOONTONIUM_DARTS_TIER_10",
+    "salescost": 4500,
+    "name": "Bloontonium Darts Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "350": {
+    "id": 350,
+    "internalname": "BLOONTONIUM_DARTS_TIER_11",
+    "salescost": 5750,
+    "name": "Bloontonium Darts Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "351": {
+    "id": 351,
+    "internalname": "BLOONTONIUM_DARTS_TIER_12",
+    "salescost": 7500,
+    "name": "Bloontonium Darts Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "352": {
+    "id": 352,
+    "internalname": "MEGA_RANGS_TIER_1",
+    "salescost": 100,
+    "name": "Mega Rangs Research Tier 1",
+    "cost": 100,
+    "quantity": 1
+  },
+  "353": {
+    "id": 353,
+    "internalname": "MEGA_RANGS_TIER_2",
+    "salescost": 200,
+    "name": "Mega Rangs Research Tier 2",
+    "cost": 200,
+    "quantity": 1
+  },
+  "354": {
+    "id": 354,
+    "internalname": "MEGA_RANGS_TIER_3",
+    "salescost": 300,
+    "name": "Mega Rangs Research Tier 3",
+    "cost": 300,
+    "quantity": 1
+  },
+  "355": {
+    "id": 355,
+    "internalname": "MEGA_RANGS_TIER_4",
+    "salescost": 450,
+    "name": "Mega Rangs Research Tier 4",
+    "cost": 450,
+    "quantity": 1
+  },
+  "356": {
+    "id": 356,
+    "internalname": "MEGA_RANGS_TIER_5",
+    "salescost": 625,
+    "name": "Mega Rangs Research Tier 5",
+    "cost": 625,
+    "quantity": 1
+  },
+  "357": {
+    "id": 357,
+    "internalname": "MEGA_RANGS_TIER_6",
+    "salescost": 850,
+    "name": "Mega Rangs Research Tier 6",
+    "cost": 850,
+    "quantity": 1
+  },
+  "358": {
+    "id": 358,
+    "internalname": "MEGA_RANGS_TIER_7",
+    "salescost": 1150,
+    "name": "Mega Rangs Research Tier 7",
+    "cost": 1150,
+    "quantity": 1
+  },
+  "359": {
+    "id": 359,
+    "internalname": "MEGA_RANGS_TIER_8",
+    "salescost": 1500,
+    "name": "Mega Rangs Research Tier 8",
+    "cost": 1500,
+    "quantity": 1
+  },
+  "360": {
+    "id": 360,
+    "internalname": "MEGA_RANGS_TIER_9",
+    "salescost": 1900,
+    "name": "Mega Rangs Research Tier 9",
+    "cost": 1900,
+    "quantity": 1
+  },
+  "361": {
+    "id": 361,
+    "internalname": "MEGA_RANGS_TIER_10",
+    "salescost": 2400,
+    "name": "Mega Rangs Research Tier 10",
+    "cost": 2400,
+    "quantity": 1
+  },
+  "362": {
+    "id": 362,
+    "internalname": "MEGA_RANGS_TIER_11",
+    "salescost": 3000,
+    "name": "Mega Rangs Research Tier 11",
+    "cost": 3000,
+    "quantity": 1
+  },
+  "363": {
+    "id": 363,
+    "internalname": "MEGA_RANGS_TIER_12",
+    "salescost": 4000,
+    "name": "Mega Rangs Research Tier 12",
+    "cost": 4000,
+    "quantity": 1
+  },
+  "364": {
+    "id": 364,
+    "internalname": "HOT_RANGS_TIER_1",
+    "salescost": 175,
+    "name": "Hot Rangs Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "365": {
+    "id": 365,
+    "internalname": "HOT_RANGS_TIER_2",
+    "salescost": 375,
+    "name": "Hot Rangs Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "366": {
+    "id": 366,
+    "internalname": "HOT_RANGS_TIER_3",
+    "salescost": 575,
+    "name": "Hot Rangs Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "367": {
+    "id": 367,
+    "internalname": "HOT_RANGS_TIER_4",
+    "salescost": 875,
+    "name": "Hot Rangs Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "368": {
+    "id": 368,
+    "internalname": "HOT_RANGS_TIER_5",
+    "salescost": 1200,
+    "name": "Hot Rangs Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "369": {
+    "id": 369,
+    "internalname": "HOT_RANGS_TIER_6",
+    "salescost": 1600,
+    "name": "Hot Rangs Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "370": {
+    "id": 370,
+    "internalname": "HOT_RANGS_TIER_7",
+    "salescost": 2000,
+    "name": "Hot Rangs Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "371": {
+    "id": 371,
+    "internalname": "HOT_RANGS_TIER_8",
+    "salescost": 2500,
+    "name": "Hot Rangs Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "372": {
+    "id": 372,
+    "internalname": "HOT_RANGS_TIER_9",
+    "salescost": 3500,
+    "name": "Hot Rangs Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "373": {
+    "id": 373,
+    "internalname": "HOT_RANGS_TIER_10",
+    "salescost": 4500,
+    "name": "Hot Rangs Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "374": {
+    "id": 374,
+    "internalname": "HOT_RANGS_TIER_11",
+    "salescost": 5750,
+    "name": "Hot Rangs Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "375": {
+    "id": 375,
+    "internalname": "HOT_RANGS_TIER_12",
+    "salescost": 7500,
+    "name": "Hot Rangs Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "376": {
+    "id": 376,
+    "internalname": "HEAVY_ORDINANCE_TIER_1",
+    "salescost": 100,
+    "name": "Heavy Ordinance Research Tier 1",
+    "cost": 100,
+    "quantity": 1
+  },
+  "377": {
+    "id": 377,
+    "internalname": "HEAVY_ORDINANCE_TIER_2",
+    "salescost": 200,
+    "name": "Heavy Ordinance Research Tier 2",
+    "cost": 200,
+    "quantity": 1
+  },
+  "378": {
+    "id": 378,
+    "internalname": "HEAVY_ORDINANCE_TIER_3",
+    "salescost": 300,
+    "name": "Heavy Ordinance Research Tier 3",
+    "cost": 300,
+    "quantity": 1
+  },
+  "379": {
+    "id": 379,
+    "internalname": "HEAVY_ORDINANCE_TIER_4",
+    "salescost": 450,
+    "name": "Heavy Ordinance Research Tier 4",
+    "cost": 450,
+    "quantity": 1
+  },
+  "380": {
+    "id": 380,
+    "internalname": "HEAVY_ORDINANCE_TIER_5",
+    "salescost": 625,
+    "name": "Heavy Ordinance Research Tier 5",
+    "cost": 625,
+    "quantity": 1
+  },
+  "381": {
+    "id": 381,
+    "internalname": "HEAVY_ORDINANCE_TIER_6",
+    "salescost": 850,
+    "name": "Heavy Ordinance Research Tier 6",
+    "cost": 850,
+    "quantity": 1
+  },
+  "382": {
+    "id": 382,
+    "internalname": "HEAVY_ORDINANCE_TIER_7",
+    "salescost": 1150,
+    "name": "Heavy Ordinance Research Tier 7",
+    "cost": 1150,
+    "quantity": 1
+  },
+  "383": {
+    "id": 383,
+    "internalname": "HEAVY_ORDINANCE_TIER_8",
+    "salescost": 1500,
+    "name": "Heavy Ordinance Research Tier 8",
+    "cost": 1500,
+    "quantity": 1
+  },
+  "384": {
+    "id": 384,
+    "internalname": "HEAVY_ORDINANCE_TIER_9",
+    "salescost": 1900,
+    "name": "Heavy Ordinance Research Tier 9",
+    "cost": 1900,
+    "quantity": 1
+  },
+  "385": {
+    "id": 385,
+    "internalname": "HEAVY_ORDINANCE_TIER_10",
+    "salescost": 2400,
+    "name": "Heavy Ordinance Research Tier 10",
+    "cost": 2400,
+    "quantity": 1
+  },
+  "386": {
+    "id": 386,
+    "internalname": "HEAVY_ORDINANCE_TIER_11",
+    "salescost": 3000,
+    "name": "Heavy Ordinance Research Tier 11",
+    "cost": 3000,
+    "quantity": 1
+  },
+  "387": {
+    "id": 387,
+    "internalname": "HEAVY_ORDINANCE_TIER_12",
+    "salescost": 4000,
+    "name": "Heavy Ordinance Research Tier 12",
+    "cost": 4000,
+    "quantity": 1
+  },
+  "388": {
+    "id": 388,
+    "internalname": "PHOSPORUS_BOMBS_TIER_1",
+    "salescost": 175,
+    "name": "Phosphorus Bombs Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "389": {
+    "id": 389,
+    "internalname": "PHOSPORUS_BOMBS_TIER_2",
+    "salescost": 375,
+    "name": "Phosphorus Bombs Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "390": {
+    "id": 390,
+    "internalname": "PHOSPORUS_BOMBS_TIER_3",
+    "salescost": 575,
+    "name": "Phosphorus Bombs Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "391": {
+    "id": 391,
+    "internalname": "PHOSPORUS_BOMBS_TIER_4",
+    "salescost": 875,
+    "name": "Phosphorus Bombs Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "392": {
+    "id": 392,
+    "internalname": "PHOSPORUS_BOMBS_TIER_5",
+    "salescost": 1200,
+    "name": "Phosphorus Bombs Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "393": {
+    "id": 393,
+    "internalname": "PHOSPORUS_BOMBS_TIER_6",
+    "salescost": 1600,
+    "name": "Phosphorus Bombs Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "394": {
+    "id": 394,
+    "internalname": "PHOSPORUS_BOMBS_TIER_7",
+    "salescost": 2000,
+    "name": "Phosphorus Bombs Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "395": {
+    "id": 395,
+    "internalname": "PHOSPORUS_BOMBS_TIER_8",
+    "salescost": 2500,
+    "name": "Phosphorus Bombs Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "396": {
+    "id": 396,
+    "internalname": "PHOSPORUS_BOMBS_TIER_9",
+    "salescost": 3500,
+    "name": "Phosphorus Bombs Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "397": {
+    "id": 397,
+    "internalname": "PHOSPORUS_BOMBS_TIER_10",
+    "salescost": 4500,
+    "name": "Phosphorus Bombs Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "398": {
+    "id": 398,
+    "internalname": "PHOSPORUS_BOMBS_TIER_11",
+    "salescost": 5750,
+    "name": "Phosphorus Bombs Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "399": {
+    "id": 399,
+    "internalname": "PHOSPORUS_BOMBS_TIER_12",
+    "salescost": 7500,
+    "name": "Phosphorus Bombs Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "400": {
+    "id": 400,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_1",
+    "salescost": 100,
+    "name": "Technological Terror Research Tier 1",
+    "cost": 100,
+    "quantity": 1
+  },
+  "401": {
+    "id": 401,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_2",
+    "salescost": 200,
+    "name": "Technological Terror Research Tier 2",
+    "cost": 200,
+    "quantity": 1
+  },
+  "402": {
+    "id": 402,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_3",
+    "salescost": 300,
+    "name": "Technological Terror Research Tier 3",
+    "cost": 300,
+    "quantity": 1
+  },
+  "403": {
+    "id": 403,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_4",
+    "salescost": 450,
+    "name": "Technological Terror Research Tier 4",
+    "cost": 450,
+    "quantity": 1
+  },
+  "404": {
+    "id": 404,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_5",
+    "salescost": 625,
+    "name": "Technological Terror Research Tier 5",
+    "cost": 625,
+    "quantity": 1
+  },
+  "405": {
+    "id": 405,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_6",
+    "salescost": 850,
+    "name": "Technological Terror Research Tier 6",
+    "cost": 850,
+    "quantity": 1
+  },
+  "406": {
+    "id": 406,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_7",
+    "salescost": 1150,
+    "name": "Technological Terror Research Tier 7",
+    "cost": 1150,
+    "quantity": 1
+  },
+  "407": {
+    "id": 407,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_8",
+    "salescost": 1500,
+    "name": "Technological Terror Research Tier 8",
+    "cost": 1500,
+    "quantity": 1
+  },
+  "408": {
+    "id": 408,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_9",
+    "salescost": 1900,
+    "name": "Technological Terror Research Tier 9",
+    "cost": 1900,
+    "quantity": 1
+  },
+  "409": {
+    "id": 409,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_10",
+    "salescost": 2400,
+    "name": "Technological Terror Research Tier 10",
+    "cost": 2400,
+    "quantity": 1
+  },
+  "410": {
+    "id": 410,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_11",
+    "salescost": 3000,
+    "name": "Technological Terror Research Tier 11",
+    "cost": 3000,
+    "quantity": 1
+  },
+  "411": {
+    "id": 411,
+    "internalname": "TECHNOLOGICAL_TERROR_TIER_12",
+    "salescost": 4000,
+    "name": "Technological Terror Research Tier 12",
+    "cost": 4000,
+    "quantity": 1
+  },
+  "412": {
+    "id": 412,
+    "internalname": "FOCUSED_BEAMS_TIER_1",
+    "salescost": 175,
+    "name": "Focused Beams Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "413": {
+    "id": 413,
+    "internalname": "FOCUSED_BEAMS_TIER_2",
+    "salescost": 375,
+    "name": "Focused Beams Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "414": {
+    "id": 414,
+    "internalname": "FOCUSED_BEAMS_TIER_3",
+    "salescost": 575,
+    "name": "Focused Beams Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "415": {
+    "id": 415,
+    "internalname": "FOCUSED_BEAMS_TIER_4",
+    "salescost": 875,
+    "name": "Focused Beams Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "416": {
+    "id": 416,
+    "internalname": "FOCUSED_BEAMS_TIER_5",
+    "salescost": 1200,
+    "name": "Focused Beams Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "417": {
+    "id": 417,
+    "internalname": "FOCUSED_BEAMS_TIER_6",
+    "salescost": 1600,
+    "name": "Focused Beams Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "418": {
+    "id": 418,
+    "internalname": "FOCUSED_BEAMS_TIER_7",
+    "salescost": 2000,
+    "name": "Focused Beams Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "419": {
+    "id": 419,
+    "internalname": "FOCUSED_BEAMS_TIER_8",
+    "salescost": 2500,
+    "name": "Focused Beams Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "420": {
+    "id": 420,
+    "internalname": "FOCUSED_BEAMS_TIER_9",
+    "salescost": 3500,
+    "name": "Focused Beams Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "421": {
+    "id": 421,
+    "internalname": "FOCUSED_BEAMS_TIER_10",
+    "salescost": 4500,
+    "name": "Focused Beams Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "422": {
+    "id": 422,
+    "internalname": "FOCUSED_BEAMS_TIER_11",
+    "salescost": 5750,
+    "name": "Focused Beams Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "423": {
+    "id": 423,
+    "internalname": "FOCUSED_BEAMS_TIER_12",
+    "salescost": 7500,
+    "name": "Focused Beams Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "424": {
+    "id": 424,
+    "internalname": "WIZARD_LORD_TIER_1",
+    "salescost": 100,
+    "name": "Wizard Lord Research Tier 1",
+    "cost": 100,
+    "quantity": 1
+  },
+  "425": {
+    "id": 425,
+    "internalname": "WIZARD_LORD_TIER_2",
+    "salescost": 200,
+    "name": "Wizard Lord Research Tier 2",
+    "cost": 200,
+    "quantity": 1
+  },
+  "426": {
+    "id": 426,
+    "internalname": "WIZARD_LORD_TIER_3",
+    "salescost": 300,
+    "name": "Wizard Lord Research Tier 3",
+    "cost": 300,
+    "quantity": 1
+  },
+  "427": {
+    "id": 427,
+    "internalname": "WIZARD_LORD_TIER_4",
+    "salescost": 450,
+    "name": "Wizard Lord Research Tier 4",
+    "cost": 450,
+    "quantity": 1
+  },
+  "428": {
+    "id": 428,
+    "internalname": "WIZARD_LORD_TIER_5",
+    "salescost": 625,
+    "name": "Wizard Lord Research Tier 5",
+    "cost": 625,
+    "quantity": 1
+  },
+  "429": {
+    "id": 429,
+    "internalname": "WIZARD_LORD_TIER_6",
+    "salescost": 850,
+    "name": "Wizard Lord Research Tier 6",
+    "cost": 850,
+    "quantity": 1
+  },
+  "430": {
+    "id": 430,
+    "internalname": "WIZARD_LORD_TIER_7",
+    "salescost": 1150,
+    "name": "Wizard Lord Research Tier 7",
+    "cost": 1150,
+    "quantity": 1
+  },
+  "431": {
+    "id": 431,
+    "internalname": "WIZARD_LORD_TIER_8",
+    "salescost": 1500,
+    "name": "Wizard Lord Research Tier 8",
+    "cost": 1500,
+    "quantity": 1
+  },
+  "432": {
+    "id": 432,
+    "internalname": "WIZARD_LORD_TIER_9",
+    "salescost": 1900,
+    "name": "Wizard Lord Research Tier 9",
+    "cost": 1900,
+    "quantity": 1
+  },
+  "433": {
+    "id": 433,
+    "internalname": "WIZARD_LORD_TIER_10",
+    "salescost": 2400,
+    "name": "Wizard Lord Research Tier 10",
+    "cost": 2400,
+    "quantity": 1
+  },
+  "434": {
+    "id": 434,
+    "internalname": "WIZARD_LORD_TIER_11",
+    "salescost": 3000,
+    "name": "Wizard Lord Research Tier 11",
+    "cost": 3000,
+    "quantity": 1
+  },
+  "435": {
+    "id": 435,
+    "internalname": "WIZARD_LORD_TIER_12",
+    "salescost": 4000,
+    "name": "Wizard Lord Research Tier 12",
+    "cost": 4000,
+    "quantity": 1
+  },
+  "436": {
+    "id": 436,
+    "internalname": "EARTH_MAGIC_TIER_1",
+    "salescost": 175,
+    "name": "Earth Magic Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "437": {
+    "id": 437,
+    "internalname": "EARTH_MAGIC_TIER_2",
+    "salescost": 375,
+    "name": "Earth Magic Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "438": {
+    "id": 438,
+    "internalname": "EARTH_MAGIC_TIER_3",
+    "salescost": 575,
+    "name": "Earth Magic Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "439": {
+    "id": 439,
+    "internalname": "EARTH_MAGIC_TIER_4",
+    "salescost": 875,
+    "name": "Earth Magic Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "440": {
+    "id": 440,
+    "internalname": "EARTH_MAGIC_TIER_5",
+    "salescost": 1200,
+    "name": "Earth Magic Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "441": {
+    "id": 441,
+    "internalname": "EARTH_MAGIC_TIER_6",
+    "salescost": 1600,
+    "name": "Earth Magic Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "442": {
+    "id": 442,
+    "internalname": "EARTH_MAGIC_TIER_7",
+    "salescost": 2000,
+    "name": "Earth Magic Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "443": {
+    "id": 443,
+    "internalname": "EARTH_MAGIC_TIER_8",
+    "salescost": 2500,
+    "name": "Earth Magic Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "444": {
+    "id": 444,
+    "internalname": "EARTH_MAGIC_TIER_9",
+    "salescost": 3500,
+    "name": "Earth Magic Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "445": {
+    "id": 445,
+    "internalname": "EARTH_MAGIC_TIER_10",
+    "salescost": 4500,
+    "name": "Earth Magic Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "446": {
+    "id": 446,
+    "internalname": "EARTH_MAGIC_TIER_11",
+    "salescost": 5750,
+    "name": "Earth Magic Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "447": {
+    "id": 447,
+    "internalname": "EARTH_MAGIC_TIER_12",
+    "salescost": 7500,
+    "name": "Earth Magic Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "448": {
+    "id": 448,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_1",
+    "salescost": 175,
+    "name": "Big Bloon Sabotage Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "449": {
+    "id": 449,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_2",
+    "salescost": 375,
+    "name": "Big Bloon Sabotage Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "450": {
+    "id": 450,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_3",
+    "salescost": 575,
+    "name": "Big Bloon Sabotage Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "451": {
+    "id": 451,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_4",
+    "salescost": 875,
+    "name": "Big Bloon Sabotage Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "452": {
+    "id": 452,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_5",
+    "salescost": 1200,
+    "name": "Big Bloon Sabotage Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "453": {
+    "id": 453,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_6",
+    "salescost": 1600,
+    "name": "Big Bloon Sabotage Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "454": {
+    "id": 454,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_7",
+    "salescost": 2000,
+    "name": "Big Bloon Sabotage Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "455": {
+    "id": 455,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_8",
+    "salescost": 2500,
+    "name": "Big Bloon Sabotage Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "456": {
+    "id": 456,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_9",
+    "salescost": 3500,
+    "name": "Big Bloon Sabotage Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "457": {
+    "id": 457,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_10",
+    "salescost": 4500,
+    "name": "Big Bloon Sabotage Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "458": {
+    "id": 458,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_11",
+    "salescost": 5750,
+    "name": "Big Bloon Sabotage Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "459": {
+    "id": 459,
+    "internalname": "BIG_BLOON_SABOTAGE_TIER_12",
+    "salescost": 7500,
+    "name": "Big Bloon Sabotage Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "460": {
+    "id": 460,
+    "internalname": "FORCE_FIELD_PHASING_TIER_1",
+    "salescost": 175,
+    "name": "Force Field Phasing Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "461": {
+    "id": 461,
+    "internalname": "FORCE_FIELD_PHASING_TIER_2",
+    "salescost": 375,
+    "name": "Force Field Phasing Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "462": {
+    "id": 462,
+    "internalname": "FORCE_FIELD_PHASING_TIER_3",
+    "salescost": 575,
+    "name": "Force Field Phasing Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "463": {
+    "id": 463,
+    "internalname": "FORCE_FIELD_PHASING_TIER_4",
+    "salescost": 875,
+    "name": "Force Field Phasing Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "464": {
+    "id": 464,
+    "internalname": "FORCE_FIELD_PHASING_TIER_5",
+    "salescost": 1200,
+    "name": "Force Field Phasing Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "465": {
+    "id": 465,
+    "internalname": "FORCE_FIELD_PHASING_TIER_6",
+    "salescost": 1600,
+    "name": "Force Field Phasing Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "466": {
+    "id": 466,
+    "internalname": "FORCE_FIELD_PHASING_TIER_7",
+    "salescost": 2000,
+    "name": "Force Field Phasing Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "467": {
+    "id": 467,
+    "internalname": "FORCE_FIELD_PHASING_TIER_8",
+    "salescost": 2500,
+    "name": "Force Field Phasing Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "468": {
+    "id": 468,
+    "internalname": "FORCE_FIELD_PHASING_TIER_9",
+    "salescost": 3500,
+    "name": "Force Field Phasing Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "469": {
+    "id": 469,
+    "internalname": "FORCE_FIELD_PHASING_TIER_10",
+    "salescost": 4500,
+    "name": "Force Field Phasing Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "470": {
+    "id": 470,
+    "internalname": "FORCE_FIELD_PHASING_TIER_11",
+    "salescost": 5750,
+    "name": "Force Field Phasing Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "471": {
+    "id": 471,
+    "internalname": "FORCE_FIELD_PHASING_TIER_12",
+    "salescost": 7500,
+    "name": "Force Field Phasing Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "472": {
+    "id": 472,
+    "internalname": "HOTTER_COOLDOWNS_TIER_1",
+    "salescost": 175,
+    "name": "Hotter Cooldowns Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "473": {
+    "id": 473,
+    "internalname": "HOTTER_COOLDOWNS_TIER_2",
+    "salescost": 375,
+    "name": "Hotter Cooldowns Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "474": {
+    "id": 474,
+    "internalname": "HOTTER_COOLDOWNS_TIER_3",
+    "salescost": 575,
+    "name": "Hotter Cooldowns Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "475": {
+    "id": 475,
+    "internalname": "HOTTER_COOLDOWNS_TIER_4",
+    "salescost": 875,
+    "name": "Hotter Cooldowns Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "476": {
+    "id": 476,
+    "internalname": "HOTTER_COOLDOWNS_TIER_5",
+    "salescost": 1200,
+    "name": "Hotter Cooldowns Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "477": {
+    "id": 477,
+    "internalname": "HOTTER_COOLDOWNS_TIER_6",
+    "salescost": 1600,
+    "name": "Hotter Cooldowns Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "478": {
+    "id": 478,
+    "internalname": "HOTTER_COOLDOWNS_TIER_7",
+    "salescost": 2000,
+    "name": "Hotter Cooldowns Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "479": {
+    "id": 479,
+    "internalname": "HOTTER_COOLDOWNS_TIER_8",
+    "salescost": 2500,
+    "name": "Hotter Cooldowns Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "480": {
+    "id": 480,
+    "internalname": "HOTTER_COOLDOWNS_TIER_9",
+    "salescost": 3500,
+    "name": "Hotter Cooldowns Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "481": {
+    "id": 481,
+    "internalname": "HOTTER_COOLDOWNS_TIER_10",
+    "salescost": 4500,
+    "name": "Hotter Cooldowns Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "482": {
+    "id": 482,
+    "internalname": "HOTTER_COOLDOWNS_TIER_11",
+    "salescost": 5750,
+    "name": "Hotter Cooldowns Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "483": {
+    "id": 483,
+    "internalname": "HOTTER_COOLDOWNS_TIER_12",
+    "salescost": 7500,
+    "name": "Hotter Cooldowns Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "484": {
+    "id": 484,
+    "internalname": "BLOP_MAGNET_TIER_1",
+    "salescost": 175,
+    "name": "Blop Magnet Research Tier 1",
+    "cost": 175,
+    "quantity": 1
+  },
+  "485": {
+    "id": 485,
+    "internalname": "BLOP_MAGNET_TIER_2",
+    "salescost": 375,
+    "name": "Blop Magnet Research Tier 2",
+    "cost": 375,
+    "quantity": 1
+  },
+  "486": {
+    "id": 486,
+    "internalname": "BLOP_MAGNET_TIER_3",
+    "salescost": 575,
+    "name": "Blop Magnet Research Tier 3",
+    "cost": 575,
+    "quantity": 1
+  },
+  "487": {
+    "id": 487,
+    "internalname": "BLOP_MAGNET_TIER_4",
+    "salescost": 875,
+    "name": "Blop Magnet Research Tier 4",
+    "cost": 875,
+    "quantity": 1
+  },
+  "488": {
+    "id": 488,
+    "internalname": "BLOP_MAGNET_TIER_5",
+    "salescost": 1200,
+    "name": "Blop Magnet Research Tier 5",
+    "cost": 1200,
+    "quantity": 1
+  },
+  "489": {
+    "id": 489,
+    "internalname": "BLOP_MAGNET_TIER_6",
+    "salescost": 1600,
+    "name": "Blop Magnet Research Tier 6",
+    "cost": 1600,
+    "quantity": 1
+  },
+  "490": {
+    "id": 490,
+    "internalname": "BLOP_MAGNET_TIER_7",
+    "salescost": 2000,
+    "name": "Blop Magnet Research Tier 7",
+    "cost": 2000,
+    "quantity": 1
+  },
+  "491": {
+    "id": 491,
+    "internalname": "BLOP_MAGNET_TIER_8",
+    "salescost": 2500,
+    "name": "Blop Magnet Research Tier 8",
+    "cost": 2500,
+    "quantity": 1
+  },
+  "492": {
+    "id": 492,
+    "internalname": "BLOP_MAGNET_TIER_9",
+    "salescost": 3500,
+    "name": "Blop Magnet Research Tier 9",
+    "cost": 3500,
+    "quantity": 1
+  },
+  "493": {
+    "id": 493,
+    "internalname": "BLOP_MAGNET_TIER_10",
+    "salescost": 4500,
+    "name": "Blop Magnet Research Tier 10",
+    "cost": 4500,
+    "quantity": 1
+  },
+  "494": {
+    "id": 494,
+    "internalname": "BLOP_MAGNET_TIER_11",
+    "salescost": 5750,
+    "name": "Blop Magnet Research Tier 11",
+    "cost": 5750,
+    "quantity": 1
+  },
+  "495": {
+    "id": 495,
+    "internalname": "BLOP_MAGNET_TIER_12",
+    "salescost": 7500,
+    "name": "Blop Magnet Research Tier 12",
+    "cost": 7500,
+    "quantity": 1
+  },
+  "496": {
+    "id": 496,
+    "internalname": "R_DOOM_WHIP",
+    "salescost": 6450,
+    "name": "Right Doom Whip",
+    "cost": 6450,
+    "quantity": 1
+  },
+  "510": {
+    "id": 510,
+    "salescost": 0,
+    "name": "handsake_proxy",
+    "cost": 0,
+    "quantity": 1
+  }
+}
